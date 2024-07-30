@@ -16,7 +16,7 @@ Follow these steps to get your Widget Maker project up and running:
 clone the repository:
 
 git clone https://github.com/n0uman0/widget-maker.git
-cd <repository-directory>
+cd repository-directory
 
 ### 2. Build and Run the Docker Containers 
 
