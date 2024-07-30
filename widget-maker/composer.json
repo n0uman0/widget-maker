@@ -1,0 +1,19 @@
+{
+    "name": "nouman/widget-maker",
+    "description": "Widget Maker",
+    "type": "project",
+    "license": "GPU",
+    "autoload": {
+        "psr-4": {
+            "WidgetMaker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nouman",
+            "email": "snoumanshafiq@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
